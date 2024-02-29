@@ -1,4 +1,4 @@
-- [ ] créer un projet vue 3
+- [x] créer un projet vue 3
 - [ ] ajouter un store
 - [ ] utiliser JSONplaceholder https://jsonplaceholder.typicode.com/
 - [ ] ajouter un router 
